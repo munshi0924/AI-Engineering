@@ -9,7 +9,7 @@ The repository showcases practical implementations of contemporary LLM engineeri
 * 🌐 AI-powered website brochure generator with intelligent web scraping
 * ✈️ Multimodal customer support assistant with tool calling and conversational UI
 * 🎙️ Speech-to-text meeting assistant with automated summaries and action items
-* 💻 AI-assisted Python-to-C++ code optimization for high-performance computing
+* 💻 AI-assisted Python-to-C++ or rust code optimization for high-performance computing
 * 📚 Enterprise knowledge assistant powered by RAG and vector databases
 * 💰 Product price prediction using frontier and fine-tuned open-source models
 * 🤖 Autonomous AI agent for deal discovery and automated notifications
