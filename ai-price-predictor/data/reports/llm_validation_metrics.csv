@@ -1,0 +1,2 @@
+model,sample_size,successful_predictions,mae,rmse,r2
+gpt-5.5,5,3,6918.666666666667,7600.87560745471,0.6946226311383223

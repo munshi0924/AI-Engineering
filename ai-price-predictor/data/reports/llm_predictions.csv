@@ -1,0 +1,6 @@
+source_row_id,description,actual_price,predicted_price,absolute_error,status
+5572,A 2015.0 ford fusion energi titanium with 84352.0 miles. Fuel type: plug-in hybrid. Transmission: cvt transmission. Engine: 188.0hp 2.0l 4 cylinder engine plug-in electric/gas. Accident history: at least 1 accident or damage reported. Title status: yes.,10000.0,,,failed
+6045,A 2021.0 chevrolet silverado 1500 custom trail boss with 51351.0 miles. Fuel type: gasoline. Transmission: automatic. Engine: 5.3l v8 16v gdi ohv. Accident history: none reported. Title status: yes.,43147.0,36995.0,6152.0,success
+2877,A 2017.0 Tesla Model X P100D with 100346.0 miles. Fuel type: unknown. Transmission: 1-Speed A/T. Engine: Electric Motor Electric Fuel System. Accident history: None reported. Title status: Yes.,45999.0,34900.0,11099.0,success
+3203,A 2020.0 GMC Acadia SLE with 58000.0 miles. Fuel type: Gasoline. Transmission: 9-Speed A/T. Engine: 310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel. Accident history: None reported. Title status: Yes.,27700.0,,,failed
+7405,A 2003.0 mercury marauder base with 90000.0 miles. Fuel type: gasoline. Transmission: 4-speed a/t. Engine: 302.0hp 4.6l 8 cylinder engine gasoline fuel. Accident history: at least 1 accident or damage reported. Title status: yes.,15500.0,11995.0,3505.0,success

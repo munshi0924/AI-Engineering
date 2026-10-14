@@ -1,0 +1,13 @@
+column,missing_count,missing_percent
+brand,0,0.0
+model,0,0.0
+model_year,1,0.01
+milage,1,0.01
+fuel_type,386,4.84
+engine,0,0.0
+transmission,0,0.0
+ext_col,0,0.0
+int_col,0,0.0
+accident,226,2.84
+clean_title,1179,14.79
+price,0,0.0

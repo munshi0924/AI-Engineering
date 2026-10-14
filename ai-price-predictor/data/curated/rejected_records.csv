@@ -1,0 +1,3 @@
+brand,model,model_year,mileage,fuel_type,engine,transmission,ext_col,int_col,accident,clean_title,price,source_row_id,rejection_reason
+ford,bronco,,6217.0,,–,–,dark gray metallic,–,none reported,yes,115000.0,5805,invalid_model_year
+honda,accord sport,2013.0,,gasoline,185.0hp 2.4l 4 cylinder engine gasoline fuel,cvt transmission,black,black,none reported,yes,6000.0,5834,invalid_mileage
